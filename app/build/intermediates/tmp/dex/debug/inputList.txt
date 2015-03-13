@@ -4,7 +4,8 @@
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/stax-api-1.0.1-clean-b9e31c649f42ca8116056b975784d9b44af42037.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.10-0a47c986d9105a64eaf4a7a0f45dda6aea5e5516.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/commons-codec-20041127.091804-4917ca394185818a1830994a90f42b4884105535.jar
-/Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/activation-1.1-1523458ef437ff5dde00351d80d7675d6b81f9ef.jar
+/Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/activation-245d06bfe164206aacd654bbe552d3495402c014.jar
+/Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/additionnal-958ddbd9ad4c5ff5ba6d4df910b784b131f306aa.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/htmlcleaner-2.10-eae4827442216eeff7b2d18042af31f22d9146fe.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/stax2-api-3.1.1-clean-d8cc837f286fcf80a540bbc3ce994b0e6df06fdb.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/servlet-api-2.4-e3bceed2506a9bcf4c220fe305b5ed32151e3c1c.jar
@@ -12,5 +13,5 @@
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/jdom2-2.0.5-54b786dab678c581e9e2ebb249d6cbabf35f7dc2.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/commons-httpclient-3.1-dfdfe021bf28044b201865d3d6ea570d60c0b1ec.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/jcifs-1.3.17-33d1ebff6cd0948f6a094a0da3ffde4f10d0aabd.jar
+/Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/mail-0a3275134761b2441f3c18334882c93d806bc98c.jar
 /Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/woodstox-core-asl-4.1.2-clean-e16e4b633e0d3627dda3ad51a8e0f5cb0db788d4.jar
-/Users/t890428/AndroidStudioProjects/cantilever/app/build/intermediates/pre-dexed/debug/mail-1.5.0-b01-d4395060c5c90c85fcf313eba0c9e069b9e53129.jar

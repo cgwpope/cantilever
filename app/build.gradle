@@ -50,7 +50,6 @@ dependencies {
     //    compile files('libs/woodstox-core-asl-4.1.2-clean.jar')
     //    compile files('libs/xercesImpl-2.8.1.jar')
     compile 'commons-codec:commons-codec:20041127.091804'
-    compile 'javax.mail:mail:1.5.0-b01'
     compile 'net.sourceforge.htmlcleaner:htmlcleaner:2.10'
     compile 'org.slf4j:slf4j-android:1.7.10'
     compile files('libs/commons-httpclient-3.1.jar')
@@ -59,4 +58,7 @@ dependencies {
     compile files('libs/stax-api-1.0.1-clean.jar')
     compile files('libs/stax2-api-3.1.1-clean.jar')
     compile files('libs/woodstox-core-asl-4.1.2-clean.jar')
+    compile files('libs/additionnal.jar')
+    compile files('libs/activation.jar')
+    compile files('libs/mail.jar')
 }
